@@ -12,3 +12,4 @@ C:\Users\452468624\Documents\AMANDA\09.02\obj\Debug\net8.0\refint\09.02.dll
 C:\Users\452468624\Documents\AMANDA\09.02\obj\Debug\net8.0\09.02.pdb
 C:\Users\452468624\Documents\AMANDA\09.02\obj\Debug\net8.0\09.02.genruntimeconfig.cache
 C:\Users\452468624\Documents\AMANDA\09.02\obj\Debug\net8.0\ref\09.02.dll
+C:\Users\452468624\Documents\AMANDA\09.02\obj\Debug\net8.0\09.02.sourcelink.json
